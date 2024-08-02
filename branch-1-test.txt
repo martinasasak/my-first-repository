@@ -1,3 +1,4 @@
 Pridavam treti riadok textu.
 Pridavam druhy riadok textu.
+Upravujem tento dokument.
 Pridavam riadok textu podla zadania.
