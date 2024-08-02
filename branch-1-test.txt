@@ -1,2 +1,3 @@
+Pridavam treti riadok textu.
 Pridavam druhy riadok textu.
 Pridavam riadok textu podla zadania.
